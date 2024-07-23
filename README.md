@@ -10,7 +10,8 @@ Aclaro que, se completa minimamente lo necesario para la entrega a modo de ejemp
 
 Ahora bien, aprovechando que esta es una primer entrega hago la siguiente consulta:
  - Aun teniendo todo correctamente instalado (python, conda, miniconda, openai==0.28) y preparado en entorno, siempre recibo el error: "RateLimitError: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
-Output is truncated. View a..."   SE ACOMPAÑA .IPYNB DE MODELO UTILIZADO
+Output is truncated. View a..."   
+SE ACOMPAÑA .IPYNB DE MODELO UTILIZADO - en tal no figira la variable "openai.api_key" porque debio ser borrada para que gitHub acepte el repositorio
  - En tal sentido, CONSULTO, la unica solucion a esta altura es pagar el servicio verdad? siendo esto asi, que plan recomienda para hacerlo lo mas económico posible ?
 
 
