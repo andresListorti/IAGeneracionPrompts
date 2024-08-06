@@ -1,6 +1,6 @@
 Hola!
 
-Esta es la primera entrega para el Proyecto Final de Andres Listorti para el Curso de IA: Generacion de Prompts en CODER.
+Esta es la Segunda entrega para el Proyecto Final de Andres Listorti para el Curso de IA: Generacion de Prompts en CODER.
 
 Tal como se solicita, la primera entrega incluye la idea plasmada en el repositorio gitHub con un .md y un .ipynb - Jupyter - en el cual se agrega simplemente a modo de ejemplo una solicitud de resumen.
 
